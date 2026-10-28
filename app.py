@@ -9,7 +9,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
 APP_NAME = "Multimodal Attendance & Engagement Agent"
 DATA_DIR = Path("session_data")
